@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes - This my attempt at creating a simple project and pushing it to github to learn the basics
